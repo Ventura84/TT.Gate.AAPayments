@@ -1,0 +1,12 @@
+2020-09-03 17:49:57.717 [INFO ] [main                          ] [        main.AAPayments] - 
+
+======================================================
+AA.PaymentsGateway v 0.3.1 (XML) TO TilsimatBill.HOST
+STARTED AT 2020-09-03_17-49-57
+MODULE_IP        :   127.0.0.1
+MODULE_PORT      :   5555
+BILLING_IP       :   217.174.225.250
+BILLING_PORT     :   29775
+======================================================
+
+

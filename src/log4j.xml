@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration debug="false">
+
+	<!--<<<<appender name="FileAppender" class="org.apache.log4j.RollingFileAppender">>>>-->
+	<appender name="FileAppender" class="org.apache.log4j.DailyRollingFileAppender">
+	   <param name="File" value="logs/aa_payments-log"/>
+	   <param name="DatePattern" value="' 'yyyy-MM-dd HH'.log'"/>
+	   <param name="Encoding" value="utf-8"/>
+           <layout class="org.apache.log4j.PatternLayout">
+                <!--<<<<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} %-5p %c{1}:%L - %m%n"/>-->
+				<!--<<<<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5p][%-10.10t][%25.25c] - %m%n"/>-->
+				<!--<<<<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%p] %d %c %M - %m%n"/>-->
+				<!--<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5p] [%-30.30t] [%23.23c{2}:%L] - %m%n"/>-->
+				<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5p] [%-30.30t] [%23.23c] - %m%n"/>
+		   </layout>
+	</appender>
+
+
+	<root>
+           <priority value="INFO"/>
+           <appender-ref ref="FileAppender"/>
+	</root>
+
+</log4j:configuration>
+
+<!--<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5p][%-18t][%22c{2}:%L] - %m%n"/> -->
+
+<!--DatePattern 	Description-->
+<!--'.' yyyy-MM 	Roll over at the end of each month and at the beginning of the next month.-->
+<!--'.' yyyy-MM-dd 	Roll over at midnight each day. This is the default value.-->
+<!--'.' yyyy-MM-dd-a 	Roll over at midday and midnight of each day.-->
+<!--'.' yyyy-MM-dd-HH 	Roll over at the top of every hour.-->
+<!--'.' yyyy-MM-dd-HH-mm 	Roll over every minute.-->
+<!--'.' yyyy-ww 	Roll over on the first day of each week depending upon the locale.-->
+

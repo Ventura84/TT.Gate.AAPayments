@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AAPayments" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2d67ea0-08ca-4fa8-97a3-37056216c4fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKmTYVaSmGm53vrdELuetyrjfC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/log4j-1.2.17.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AAPayments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.AAPayments" />
+      <module name="AAPayments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AAPayments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d67ea0-08ca-4fa8-97a3-37056216c4fe" name="Default Changelist" comment="" />
+      <created>1586492667066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586492667066</updated>
+      <workItem from="1586492669601" duration="23737000" />
+      <workItem from="1586522378104" duration="17000" />
+      <workItem from="1586757323149" duration="898000" />
+      <workItem from="1586782706476" duration="59000" />
+      <workItem from="1589175446435" duration="2384000" />
+      <workItem from="1589431462058" duration="416000" />
+      <workItem from="1589434687696" duration="13000" />
+      <workItem from="1590554242799" duration="9000" />
+      <workItem from="1594199476616" duration="653000" />
+      <workItem from="1594893458921" duration="249000" />
+      <workItem from="1595414137318" duration="605000" />
+      <workItem from="1595584857934" duration="43000" />
+      <workItem from="1596086511223" duration="452000" />
+      <workItem from="1596108664651" duration="14000" />
+      <workItem from="1597996224479" duration="605000" />
+      <workItem from="1599131744184" duration="20000" />
+      <workItem from="1599134409547" duration="3577000" />
+      <workItem from="1599193615152" duration="3767000" />
+      <workItem from="1599540906214" duration="53000" />
+      <workItem from="1600069111090" duration="1478000" />
+      <workItem from="1600666011939" duration="2549000" />
+      <workItem from="1600767514376" duration="1203000" />
+      <workItem from="1600855295582" duration="64000" />
+      <workItem from="1600927588339" duration="392000" />
+      <workItem from="1601007640743" duration="203000" />
+      <workItem from="1601035534976" duration="90000" />
+      <workItem from="1601353209206" duration="35000" />
+      <workItem from="1601537215357" duration="34000" />
+      <workItem from="1601539992467" duration="7000" />
+      <workItem from="1601882970668" duration="2717000" />
+      <workItem from="1601900264652" duration="7000" />
+      <workItem from="1601970281618" duration="492000" />
+      <workItem from="1602306450056" duration="629000" />
+      <workItem from="1602482444647" duration="25000" />
+      <workItem from="1602484737533" duration="202000" />
+      <workItem from="1604291617561" duration="474000" />
+      <workItem from="1604294542887" duration="2184000" />
+      <workItem from="1604380879018" duration="5000" />
+      <workItem from="1604579907095" duration="603000" />
+      <workItem from="1606729548113" duration="1216000" />
+      <workItem from="1613707557126" duration="7520000" />
+      <workItem from="1623738366621" duration="5600000" />
+      <workItem from="1623832461821" duration="3379000" />
+      <workItem from="1623927447886" duration="608000" />
+      <workItem from="1623988228273" duration="598000" />
+      <workItem from="1624597328986" duration="3711000" />
+      <workItem from="1624614843405" duration="1201000" />
+      <workItem from="1624860188132" duration="1198000" />
+      <workItem from="1624958218938" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1921" height="13" key="GridCell.Tab.0.bottom" timestamp="1623845005310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="13" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623845005310" />
+    <state width="1921" height="13" key="GridCell.Tab.0.center" timestamp="1623845005310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="13" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623845005310" />
+    <state width="1921" height="13" key="GridCell.Tab.0.left" timestamp="1623845005310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="13" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623845005310" />
+    <state width="1921" height="13" key="GridCell.Tab.0.right" timestamp="1623845005310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="13" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623845005310" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1624600773522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624600773522" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1624958220186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1624958220186" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624597329895" />
+    <state x="342" y="141" key="new project wizard" timestamp="1624958294499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1624958294499" />
+  </component>
+</project>
