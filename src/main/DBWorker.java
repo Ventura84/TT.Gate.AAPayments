@@ -19,7 +19,7 @@ public class DBWorker {
 
     private void postgreSQLConnection() {
         try {
-            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/ttgate", "postgres", "postgre@!");
+            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/ttgate", "postgres", "postgres");
             connStatement = connection.createStatement();
         } catch (SQLException e) {
             log.error("ERROR: UNABLE CONNECT TO DB ! :(" + e);
